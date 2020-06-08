@@ -1,0 +1,20 @@
+body{
+    color:black;
+    font-family: verdana,cursive;
+}
+#login{
+    margin: 0 auto;
+    align-content: center;
+    border-radius: 10px;
+    border:10px solid #aa0066;
+    width:300px;
+    
+}
+h1{
+   font-size : 18pt;
+   font-family : verdana,arial;
+   text-align : center;
+}
+#boton{
+   text-align: center;
+}
